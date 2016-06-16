@@ -17,7 +17,15 @@ function removespl(){
 </script>
 </head>
 <body>
+
 <input type="text" name="t1" id="te1"></input>
 <button onclick="removespl()">Click</button>
+
+
+
+
+
+
+
 </body>
 </html>
